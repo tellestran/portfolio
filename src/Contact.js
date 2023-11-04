@@ -81,7 +81,7 @@ function Contact() {
                       id="message"
                       type="text"
                       placeholder="Enter your message here..."
-                      style="height: 10rem"
+                      style={{height: '10rem'}}
                       data-sb-validations="required"
                     ></textarea>
                     <label for="message">Message</label>

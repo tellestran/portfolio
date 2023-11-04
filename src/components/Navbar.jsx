@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-md">
       <h1 className="w-full text-xl font-bold text-[#1e30f3]">
-        Start Bootstrap
+        MyPortfolio
       </h1>
       <ul className="hidden md:flex">
         <li className="p-4 ">
