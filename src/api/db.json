@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "projectName": "This is the first project",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!"
+    },
+    {
+      "projectName": "This is the second project",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!"
+    }
+  ]
+}
